@@ -3,13 +3,20 @@ não a vimos. O futuro ainda está tão à
 nossa frente. Formulários são a espinha
 dorsal da interação na web." 
 
-## Tim Berners-Lee
-## Criador da Web
+Tim Berners-Lee
+Criador da Web
 
 "A análise de dados é o coração da
 transformação digital. É atravez dela
 que podemos tomar decisões baseadas
 em evidências e impulsionar a inovação"
 
-## Satya Nadella
-## Ceo da Microsoft
+Satya Nadella, Ceo da Microsoft
+
+"O poder da web está na sua
+universalidade. O acesso de todos,
+independentemente da deficiência
+é um aspecto essencial"
+
+Tim Berners-Lee
+Criador da Web

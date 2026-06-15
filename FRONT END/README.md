@@ -12,3 +12,11 @@ que podemos tomar decisões baseadas
 em evidências e impulsionar a inovação"
 
 Satya Nadella, Ceo da Microsoft
+
+"O poder da web está na sua
+universalidade. O acesso de todos,
+independentemente da deficiência
+é um aspecto essencial"
+
+Tim Berners-Lee
+Criador da Web
